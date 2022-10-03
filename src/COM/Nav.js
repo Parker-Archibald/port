@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {CgProfile} from 'react-icons/cg'
+import {CgProfile} from 'react-icons/cg';
 import {GoGraph} from 'react-icons/go';
 import {FcGraduationCap} from 'react-icons/fc';
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai';
